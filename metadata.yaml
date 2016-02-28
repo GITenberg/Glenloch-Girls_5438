@@ -1,0 +1,23 @@
+_repo: Glenloch-Girls_5438
+creator:
+  author:
+    agent_name: Remick, Grace May
+    alias: Remick, Grace M.
+    gutenberg_agent_id: '1799'
+    url: http://www.gutenberg.org/2009/agents/1799
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5438'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Societies and clubs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: Glenloch Girls
+url: http://www.gutenberg.org/ebooks/5438
